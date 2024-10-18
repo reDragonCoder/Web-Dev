@@ -14,7 +14,7 @@ Hey there! 👋 Welcome to my little corner of the web. This repository showcase
 - CSS3
 - JavaScript
 
-## 🌈 Get Involved
+## 🦾 Get Involved
 
 Feel free to explore, give feedback, or even contribute! If you find something you like or have suggestions, don’t hesitate to reach out. 
 
